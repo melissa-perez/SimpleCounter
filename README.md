@@ -20,3 +20,5 @@ Ideas for possible upgrades:
 - [] User can exchange 100 taps for an icon button instead of the standard one.
 - [x] Customize the app with a theme. For example, you can have a dog background and a paw print button to give your app a dog theme.
 - [] (Extra challenge) User has increasingly difficult goals to reach in terms of number of taps accumulated. Each goal is displayed on the screen until the next goal is reached, and user can see how many goals they've reached in total.
+
+![alt text](http://url/to/img.png)
